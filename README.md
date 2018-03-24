@@ -1,3 +1,10 @@
+### Current projects
+
+1. Evaluation of word embeddings evaluation metrics, Master's thesis [[Github](https://github.com/word-forge/embeddings-gym)].
+2. Efficient search of cross-language paraphrases with word embeddings using C++ [[Github](https://github.com/bakarov/cross-lang-paraphrases)].
+3. Evaluation of word embeddings based on localization of natural language stimula in a human brain using fMRI neuroimaging data, University project [[Github](https://github.com/nlphse/semantic-brain-map)].
+4. Citation graph on a database of Russian NLP papers [[Github](https://github.com/bakarov/rusnlp)].
+
 ### Publications
 
 1. Bakarov, A., Gureenkova, O. (2017, July). [Automated Detection of Non-Relevant Posts on the Russian Imageboard `2ch': Importance of the Choice of Word Representations](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_2). In International Conference on Analysis of Images, Social Networks and Texts (pp. 16-21). Springer, Cham.
@@ -46,3 +53,4 @@
 2. **Introduction to Natural Language Processing**, University of Michigan, Coursera [[Certificate](https://www.coursera.org/account/accomplishments/certificate/GGY6ZSZVEMHK)].
 
 **Email**: "%s%s@%s.%s" % (firstname, lastname, "gmail", "com")
+**Social networks**: [Twitter](https://twitter.com/a_bakarov), [ResearchGate](https://www.researchgate.net/profile/Amir_Bakarov), [Github](https://github.com/bakarov).
