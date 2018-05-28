@@ -7,7 +7,7 @@
 
 #### Selected Publications
 
-1. Bakarov, A. (2018, June). The Limitations of Cross-language Word Embeddings. In Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (* SEM 2017) (**accepted**). 
+1. Bakarov, A., & Suvorov. R., & Sochenkov, I. (2018, June). The Limitations of Cross-language Word Embeddings. In Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (* SEM 2017) (**accepted**). 
 2. Bakarov, A. (2018, January). [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536). arXiv preprint arXiv:1801.09536.
 
 #### 2018
