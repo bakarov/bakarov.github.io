@@ -1,16 +1,26 @@
 ### Current projects
 
 1. Evaluation of word embeddings evaluation metrics, Master's thesis [[Github](https://github.com/word-forge/embeddings-gym)].
-2. Efficient search of cross-language paraphrases with word embeddings using C++ [[Github](https://github.com/bakarov/cross-lang-paraphrases)].
-3. Evaluation of word embeddings based on localization of natural language stimula in a human brain using fMRI neuroimaging data, University project [[Github](https://github.com/nlphse/semantic-brain-map)].
-4. Citation graph on a database of Russian NLP papers [[Github](https://github.com/bakarov/rusnlp)].
-5. Exploring fairness in word embeddings [[Github](github.com/bakarov/fair-embeddings)].
+2. Evaluation of fairness and discrimination in word embeddings [[Github](github.com/bakarov/fair-embeddings)].
 
 ### Publications
 
-1. Bakarov, A. (2018, May). [Can Eye Movement Data Be Used As Ground Truth For Word Embeddings Evaluation?](http://lrec-conf.org/workshops/lrec2018/W9/pdf/3_W9.pdf) In Linguistic and Neuro-Cognitive Resources (LiNCR), LREC 2018 Workshop (pp. 27-32).
-2. Bakarov, A., Gureenkova, O. (2017, July). [Automated Detection of Non-Relevant Posts on the Russian Imageboard `2ch': Importance of the Choice of Word Representations](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_2). In International Conference on Analysis of Images, Social Networks and Texts (pp. 16-21). Springer, Cham.
-3. Bakarov, A. (2018, January). [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536). arXiv preprint arXiv:1801.09536.
+#### Selected Publications
+
+1. Bakarov, A. (2018, June). The Limitations of Cross-language Word Embeddings. In Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (* SEM 2017) (**accepted**). 
+2. Bakarov, A. (2018, January). [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536). arXiv preprint arXiv:1801.09536.
+
+#### 2018
+
+1. Bakarov, A., & Yadrintsev, V., & Sochenkov, I. (2018, June). Anomaly Detection for Short Texts: Identifying Whether Your Chatbot Should Switch From Goal-Oriented Conversation to Chit-Chatting. In Digital Transformations & Global Society. Springer, Cham (**accepted**).
+2. Bakarov, A., & Kutuzov, A., & Nikishika I. (2018, May). Russian Computational Linguistics: Topical Structure in 2007-2017 Conference Papers. Computational Linguistics and Intellectual Technologies, Dialogue 2018 (**accepted**).
+3. Bakarov A. (2018, May). The Effect of Unobserved Word-Context Co-occurrences on a Vector-Mixture Approach for Compositional Distributional Semantics. Computational Linguistics in Bulgaria 2019 (**accepted**). 
+4. Bakarov, A. (2018, May). [Can Eye Movement Data Be Used As Ground Truth For Word Embeddings Evaluation?](http://lrec-conf.org/workshops/lrec2018/W9/pdf/3_W9.pdf) In Linguistic and Neuro-Cognitive Resources (LiNCR), LREC 2018 Workshop (pp. 27-32).
+
+
+#### 2017
+
+1. Bakarov, A., Gureenkova, O. (2017, July). [Automated Detection of Non-Relevant Posts on the Russian Imageboard `2ch': Importance of the Choice of Word Representations](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_2). In International Conference on Analysis of Images, Social Networks and Texts (pp. 16-21). Springer, Cham.
 
 ### Events and schools
 
@@ -18,7 +28,7 @@
 2. The 11th Russian Summer School in Information Retrieval [RuSSIR 2017](http://romip.ru/russir2017/), Yekaterinburg, Russia, August 21-25 2017. *Textual Anomaly Detection for Goal-Oriented Conversational Agents* [[Poster](https://www.researchgate.net/publication/319433350_Textual_Anomaly_Detection_for_Goal-Oriented_Conversational_Agents)].
 3. The 6th conference on Artificial Intelligence and Natural Language [AINL 2017](http://ainlconf.ru/2017), St. Petersburg, Russia, September 20-23 2017. *Don't Count, Look! Finding Correlation Between Distributional Word Embeddings and Eye-Tracking Gaze Vectors* [[Poster](https://www.researchgate.net/publication/319964918_Don't_Count_Look_Finding_Correlation_Between_Distributional_Word_Embeddings_and_Eye-Tracking_Gaze_Vectors)].
 
-### Invites talks
+### Invited talks
 
 1. Yandex School of Data Analysis, Workshop on Text Analysis (2018, February).
 2. Ivannikov ISPRAS Open Conference (2017, November).
@@ -42,7 +52,7 @@
 ### Education
 
 * **Master, Computational Linguistics** *(2017 - 2019)*, The National Research University Higher School of Economics, Moscow, Russia.
-* **Bachelor, Computer Science** *(2013 - 2017)*, Novosibirsk State University, Novosibirsk, Russia  (GPA 4.3).
+* **Bachelor, Computer Science** *(2013 - 2017)*, Novosibirsk State University, Novosibirsk, Russia.
 
 ### Relevant skills
 
