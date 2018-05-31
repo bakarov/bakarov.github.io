@@ -7,13 +7,14 @@
 
 #### Selected Publications
 
-1. Bakarov, A., & Suvorov. R., & Sochenkov, I. (2018, June). The Limitations of Cross-language Word Embeddings. In Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (* SEM 2017) (**accepted**). 
+1. Bakarov, A., Suvorov. R., Sochenkov, I. (2018, June). The Limitations of Cross-language Word Embeddings. In Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (* SEM 2017) (**accepted**). 
 2. Bakarov, A. (2018, January). [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536). arXiv preprint arXiv:1801.09536.
 
 #### 2018
 
-1. Bakarov, A., & Yadrintsev, V., & Sochenkov, I. (2018, June). Anomaly Detection for Short Texts: Identifying Whether Your Chatbot Should Switch From Goal-Oriented Conversation to Chit-Chatting. In Digital Transformations & Global Society. Springer, Cham (**accepted**).
-2. Bakarov, A., & Kutuzov, A., & Nikishika I. (2018, May). Russian Computational Linguistics: Topical Structure in 2007-2017 Conference Papers. Computational Linguistics and Intellectual Technologies, Dialogue 2018 (**accepted**).
+1. Nikishina, I., Kutuzov, A., Bakarov. A. (2018, July). RusNLP: Semantic search engine for Russian NLP conference papers. International Conference on Analysis of Images, Social Networks and Texts. Springer, Cham (**accepted**).
+1. Bakarov, A., Yadrintsev, V., Sochenkov, I. (2018, June). Anomaly Detection for Short Texts: Identifying Whether Your Chatbot Should Switch From Goal-Oriented Conversation to Chit-Chatting. In Digital Transformations & Global Society. Springer, Cham (**accepted**).
+2. Bakarov, A., Kutuzov, A., Nikishina I. (2018, May). Russian Computational Linguistics: Topical Structure in 2007-2017 Conference Papers. Computational Linguistics and Intellectual Technologies, Dialogue 2018 (**accepted**).
 3. Bakarov A. (2018, May). The Effect of Unobserved Word-Context Co-occurrences on a Vector-Mixture Approach for Compositional Distributional Semantics. Computational Linguistics in Bulgaria 2019 (**accepted**). 
 4. Bakarov, A. (2018, May). [Can Eye Movement Data Be Used As Ground Truth For Word Embeddings Evaluation?](http://lrec-conf.org/workshops/lrec2018/W9/pdf/3_W9.pdf) In Linguistic and Neuro-Cognitive Resources (LiNCR), LREC 2018 Workshop (pp. 27-32).
 
