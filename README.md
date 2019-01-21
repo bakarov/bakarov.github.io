@@ -5,10 +5,14 @@
 * [Google Scholar](https://scholar.google.ru/citations?user=GQvaBQsAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/bakarov/)
 
+* * *
+
 ### Education
 
 * **Master, Computational Linguistics**, current GPA 5.0/5.0 *(2017 - 2019)*, The National Research University Higher School of Economics, Moscow, Russia.
 * **Bachelor, Computer Science**, GPA 4.3/5.0 *(2013 - 2017)*, Novosibirsk State University, Novosibirsk, Russia.
+
+* * *
 
 ### Research Experience
 
@@ -30,6 +34,8 @@
 * Developed a paraphrase detection module using distributional semantics technique.
 * Developed an anomaly detection module using Tensorflow for identifying off-topic utterances.
 
+* * *
+
 ### Publications
 
 1. Bakarov, A (2018, December). [Vector Space Models for Automatic Misogyny Identification (Short Paper)](http://ceur-ws.org/Vol-2263/paper035.pdf). In Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2018).
@@ -44,6 +50,8 @@
 10. Bakarov, A. (2018, January). [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536). arXiv preprint arXiv:1801.09536.
 11. Bakarov, A., Gureenkova, O. (2017, July). [Automated Detection of Non-Relevant Posts on the Russian Imageboard 2ch: Importance of the Choice of Word Representations](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_2). In International Conference on Analysis of Images, Social Networks and Texts (pp. 16-21). Springer, Cham.
 
+* * *
+
 ### Relevant skills
 
 * **Computer Science:** My education and experience as a software engineer gave me such skills in computer science and software engineering as algorithms, object oriented design, patterns and development processes.
@@ -52,10 +60,14 @@
 * **Other:** I have a decent understanding of UNIX system administration, I am familiar with version control systems (git, svn) and databases (SQL). I have interest in cognitive sciences, and I know about key works, methods and recent advances in decision making and language processing. 
 * **Natural Languages:** Russian (native), English (fluent).
 
+* * *
+
 ### Teaching
 
 1. **Teaching Assistant** *(January 2018 - July 2018)*, Data Science for the Department of Foreign Languages, The National Research University Higher School of Economics.
 2.  **Teaching Assistant** *(January 2018 - present)*, Machine Learning for the Department of Foreign Languages, The National Research University Higher School of Economics.
+
+* * *
 
 ### Activities
 
