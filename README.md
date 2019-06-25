@@ -22,7 +22,7 @@
 * Investigated methods of transfer learning, data augmentation and few-shot learning for Natural Language Understanding. 
 * Researched and developed modules of question answering, anaphora resolution, chit-chat (for English language).
 
-**Research Engineer** *(October 2017 - September 2019)*, Federal Research Center "Computer sciences and Control" of Russian Academy of Sciences, Moscow, Russia.
+**Research Engineer** *(October 2017 - September 2018)*, Federal Research Center "Computer sciences and Control" of Russian Academy of Sciences, Moscow, Russia.
 
 * Researched and developed methods of cross-language information retrieval, plagiarism detection, quantitative analysis of scientific papers.
 * Developed cross-lingual plagiarism detection for Rucont, 2nd popular plagiarism detection system for Russian.
