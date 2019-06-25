@@ -9,7 +9,7 @@
 
 ### Education
 
-* **Master, Computational Linguistics**, current GPA 5.0/5.0 *(2017 - 2019)*, The National Research University Higher School of Economics, Moscow, Russia.
+* **Master, Computational Linguistics**, GPA 9/10 *(2017 - 2019)*, The National Research University Higher School of Economics, Moscow, Russia.
 * **Bachelor, Computer Science**, GPA 4.3/5.0 *(2013 - 2017)*, Novosibirsk State University, Novosibirsk, Russia.
 
 * * *
@@ -18,21 +18,20 @@
 
 **Senior Research Engineer** *(September 2018 - present)*, Huawei Technologies, St. Petersburg Research Centre, St. Petersburg, Russia.
 
-* Worked on Huawei Voice Assistant for English.
-* Researched and developed methods of question answering, anaphora resolution, chit-chatting, etc.
+* Worked on short- and mid-term research projects for Huawei Voice Assistant. 
+* Investigated methods of transfer learning, data augmentation and few-shot learning for Natural Language Understanding. 
+* Researched and developed modules of question answering, anaphora resolution, chit-chat (for English language).
 
 **Research Engineer** *(October 2017 - September 2019)*, Federal Research Center "Computer sciences and Control" of Russian Academy of Sciences, Moscow, Russia.
 
-* Explored methods of word embeddings evaluation.
-* Participated in a development of a Python module for word embeddings evaluation.
-* Explored methods of cross-language information retrieval.
+* Researched and developed methods of cross-language information retrieval, plagiarism detection, quantitative analysis of scientific papers.
+* Developed cross-lingual plagiarism detection for Rucont, 2nd popular plagiarism detection system for Russian.
+* Worked on a quantitative analysis of integration of innovative technologies into different branches of economics (Digital Economy program of Russian government).
 
 **Research Engineer** *(February 2017 - August 2017)*, Expasoft Ltd., Novosibirsk, Russia.
 
-* Participated in a development of a goal-oriented conversational agent (chatbot) for Russian.
-* Developed a rule-based named entity recognition module for slot filling using Python.
-* Developed a paraphrase detection module using distributional semantics technique.
-* Developed an anomaly detection module using Tensorflow for identifying off-topic utterances.
+* Developed goal-oriented conversational agent platform for Russian language. 
+* Researched and developed methods of named entity recognition, paraphrase identification, anomaly detection.
 
 * * *
 
@@ -64,8 +63,8 @@
 
 ### Teaching
 
-1. **Teaching Assistant** *(January 2018 - July 2018)*, Data Science for the Department of Foreign Languages, The National Research University Higher School of Economics.
-2.  **Teaching Assistant** *(January 2018 - present)*, Machine Learning for the Department of Foreign Languages, The National Research University Higher School of Economics.
+1. **Teaching Assistant** *(January 2019 - July 2019)*, Machine Learning, The National Research University Higher School of Economics.
+2. **Teaching Assistant** *(January 2018 - July 2018)*, Data Science, The National Research University Higher School of Economics.  
 
 * * *
 
