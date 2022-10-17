@@ -4,6 +4,7 @@
 * [ResearchGate](https://www.researchgate.net/profile/Amir_Bakarov)
 * [Google Scholar](https://scholar.google.ru/citations?user=GQvaBQsAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/bakarov/)
+* [РИНЦ](https://www.elibrary.ru/author_profile.asp?id=1057976)
 
 * * *
 
