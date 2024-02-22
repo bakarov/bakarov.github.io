@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: /assets/photo.png
 title: Amir Bakarov
 description: Natural Language Processing Research Engineer
+author_profile: false
