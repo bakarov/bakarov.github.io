@@ -18,6 +18,11 @@
 
 ### Research Experience
 
+**Senior Research Engineer** *(August 2024 - present)*, Anecdote AI, Montréal, Canada.
+
+* Created LLM pipelines and LLMOps infrastructure for automatic CX & Product insights extraction;
+* Fine-tuned LLMs; worked with agentic workflows.
+
 **Senior Research Engineer** *(August 2020 - February, 2023)*, Logiciel Behavox Inc, Montréal, Canada.
 
 * created a core text classification engine for ``Behavox Quantum'', a market-leading compliance solution;
