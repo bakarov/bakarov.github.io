@@ -63,7 +63,7 @@
 14. Bakarov, A. (2018, January). [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536). arXiv preprint arXiv:1801.09536.
 15. Bakarov, A., Gureenkova, O. (2017, July). [Automated Detection of Non-Relevant Posts on the Russian Imageboard 2ch: Importance of the Choice of Word Representations](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_2). In International Conference on Analysis of Images, Social Networks and Texts (pp. 16-21). Springer, Cham.
 
-****
+* * *
 
 ### Open-source contributions
 
@@ -91,6 +91,25 @@
 
 * * *
 
+### Public Speaking  
+
+1. Linguistic Representativeness of Word Embeddings, [5th Kolmogorov Seminar on Computational Linguistics](https://ling.hse.ru/news/465411285.html), April 2021.
+2. Did You Just Assume My Vector? Detecting Gender Stereotypes in Word Embeddings, AIST Conference, June 2020.
+3. Introduction to Natural Language Processing, [Geek Picnic](https://en.wikipedia.org/wiki/Geek_Picnic), June 2019.
+4. Data Augmentation & Few-Shot Learning, Open Data Science Conference, May 2019.
+5. Linguistic Representativeness of Distributional Semantic Models on the Lexical Level, University of Oslo Seminar in Language Technology, April 2019.
+6. Seq2Seq Models & Chatbots, St. Petersburg Developers Community, December 2018.
+7. Anomaly Detection for Short Texts: Identifying Whether Your Chatbot Should Switch From Goal-Oriented Conversation to Chit-Chatting, DTGS, June 2018.
+8. Meaning Representations for Conversational Agents, ICT Algorithm Design (ICTAD), November 2018.
+9. Methods of Evaluation of Word Embeddings, AINL, September 2018.
+10. The Limitations of Cross-language Word Embeddings Evaluation, ESSLI Student Session, August 2018.
+11. The Effect of Unobserved Word-Context Co-occurrences on a Vector-Mixture Approach for Compositional Distributional Semantics, CLIB, May 2018.
+12. Can Eye Movement Data Be Used As Ground Truth For Word Embeddings Evaluation?, LiNCR, May 2018.
+13. Importance of the Choice of Word Representations, AIST Conference, July 2017.
+14. Ontology Learning with LDA2VEC, MNSK Conference, April 2017.
+
+* * *
+
 ### Activities
 
 * **Programme Committee**: AACL, ACL, EACL, EMNLP, LREC, NAACL; [AIST](https://aistconf.org/) (Analysis of Images, Social networks and Texts Conference), [AINL](https://ainlconf.ru/)(Artificial Intelligence and Natural Language Conference). 
@@ -98,7 +117,6 @@
 * **Membership**: Association of Computational Linguistics and Special Interest Group on Slavic Natural Language Processing SIGSLAV. 
 * **Mentoring**: Mentor for the [Apertium Project](https://www.apertium.org/index.eng.html#?dir=eng-epo&q=) at Google Code-in 2018.
 * **Organizing**: Organizer of an open [NLP Seminar](https://www.youtube.com/channel/UCN_Um4u-7F_DkNt2N1824UQ) in Moscow and St. Petersburg; participated in organisation of Sberbank Data Science Journey 2018.
-* **Speaking**: Speaker on DataFest 2019 and Geek Picnic 2019; invited speaker at AINL 2018.
 * **Competitions**: 1st place at the [EVALITA-2018 Shared Task on Automated Misogyny Detection](https://books.openedition.org/aaccademia/4497?lang=en) across 16 teams.  
 * Participated in ESSLLI 2018 (Sofia, Bulgaria) and RUSSIR 2017/2018 summer schools.
 
