@@ -110,6 +110,17 @@
 
 * * *
 
+### Posters
+
+1. Dont Count, Look! Finding Correlation Between Distributional Word Embeddings and Eye-Tracking Gaze Vectors, AINL, September 2017.
+2. 5. Did You Just Assume My Vector? Detecting Gender Stereotypes in Word Embeddings, HSE ML Workshop, April 2018.
+3. The Limitations of Cross-language Word Embeddings, *SEM, June 2018.
+4. Russian Computational Linguistics: Topical Structure in 2007-2017 Conference Papers, Dialogue, June 2018.
+5. Representativeness of Cross-language Word Embeddings on a Lexical Level: Could it be General, or is it Always Task-specific? FoTran Workshop, September 2018.
+6. Vecto: A framework for word, character, sentence embeddings and more! AINL, October 2018.
+
+* * *
+
 ### Activities
 
 * **Programme Committee**: AACL, ACL, EACL, EMNLP, LREC, NAACL; [AIST](https://aistconf.org/) (Analysis of Images, Social networks and Texts Conference), [AINL](https://ainlconf.ru/)(Artificial Intelligence and Natural Language Conference). 
